@@ -1,0 +1,16 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.compumaker.horario_tutorias.Luis_Fernando_Abanis">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:text="Miercoles 2-3pm                                                                        Jueves 5-6pm                                                                                                        Viernes  9-12am               "
+        android:textStyle="bold" />
+
+</FrameLayout>
